@@ -9,6 +9,6 @@ Current focus:
 
 - Macro-driven ML forecasting models
 
-Currently an Analyst at Equiniti, where I build and refine trading strategies, automate research workflows, and integrate macroeconomic insights into systematic approaches. Outside of work, I explore new strategy ideas and publish selected projects here.
+Currently working as an Analyst, where I build and refine trading strategies, automate research workflows, and integrate macroeconomic insights into systematic approaches. Outside of work, I explore new strategy ideas and publish selected projects here.
 
 Passionate about turning noisy financial data into robust, profitable strategies.
