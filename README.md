@@ -1,8 +1,14 @@
-### Hi, I'm Aditya 👋
+Hi, I'm Aditya 👋
+Quantitative finance professional with 2+ years’ experience applying Python, machine learning, and statistical modelling to develop and backtest systematic trading strategies. Skilled at combining data-driven research with market intuition to generate actionable signals.
 
-I'm a finance professional with experience in market research, risk analysis, and quantitative trading. I'm passionate about applying Python and machine learning to financial markets. Currently working as an Analyst at Equiniti and building trading strategy projects in my spare time.
+Current focus:
 
-🔭 I’m currently working on:
-- Backtesting equity and fixed income trading strategies
-- Yield curve modeling and portfolio duration analysis
-- Macro-driven ML forecasting models
+Backtesting equity, fixed income, and statistical arbitrage strategies
+
+Yield curve modelling & portfolio duration optimisation
+
+Macro-driven ML forecasting models
+
+Currently an Analyst at Equiniti, where I build and refine trading strategies, automate research workflows, and integrate macroeconomic insights into systematic approaches. Outside of work, I explore new strategy ideas and publish selected projects here.
+
+Passionate about turning noisy financial data into robust, profitable strategies.
