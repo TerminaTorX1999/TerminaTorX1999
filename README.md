@@ -3,11 +3,11 @@ Quantitative finance professional with 2+ years’ experience applying Python, m
 
 Current focus:
 
-Backtesting equity, fixed income, and statistical arbitrage strategies
+- Backtesting equity, fixed income, and statistical arbitrage strategies
 
-Yield curve modelling & portfolio duration optimisation
+- Yield curve modelling & portfolio duration optimisation
 
-Macro-driven ML forecasting models
+- Macro-driven ML forecasting models
 
 Currently an Analyst at Equiniti, where I build and refine trading strategies, automate research workflows, and integrate macroeconomic insights into systematic approaches. Outside of work, I explore new strategy ideas and publish selected projects here.
 
