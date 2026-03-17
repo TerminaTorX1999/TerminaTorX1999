@@ -1,14 +1,16 @@
 Hi, I’m Aditya 👋  
-Quantitative finance professional with 2+ years of experience developing and backtesting systematic trading strategies using Python, machine learning, and statistical modeling.
+Trading systems and data-focused professional with 2+ years of experience working with market data, Python, and SQL in production-style environments.
 
-Background in engineering, MSc Finance & Investment, and CFA Level I. Experienced in SQL-to-Python pipelines, feature engineering, and quantitative research across equities, fixed income, and statistical arbitrage.
+Background in engineering, MSc Finance & Investment, and CFA Level I. Experienced in building and maintaining data pipelines, automating workflows, and supporting analysis across equities, rates, and macro datasets.
 
 Current focus:
-- Systematic strategy backtesting and research
-- Yield curve modeling and portfolio duration optimization
-- Macro-driven machine learning models
 
-Tools & workflow: Python, SQL, Linux-based research environments, basic kdb+/q for time-series exploration.
+Market data validation, monitoring, and automation
+Python + SQL workflows for data processing and analysis
+Linux-based environments, scripting, and debugging data issues
 
-Currently working as an Analyst, building trading strategies, automating research workflows, and integrating macroeconomic data into systematic approaches.  
-This GitHub contains selected research and strategy implementations.
+Tools & workflow: Python, SQL (PostgreSQL), Linux/Bash, basic kdb+/q for time-series exploration.
+
+Currently working as an Analyst, supporting data-driven workflows, automating processes, and working with financial datasets used in trading and analysis.
+
+This GitHub contains selected projects focused on data pipelines, automation, and market data analysis.
