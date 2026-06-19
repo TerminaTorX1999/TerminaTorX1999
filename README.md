@@ -1,16 +1,19 @@
-Hi, I’m Aditya 👋  
-Trading systems and data-focused professional with 2+ years of experience working with market data, Python, and SQL in production-style environments.
+Hi, I'm Aditya 👋
 
-Background in engineering, MSc Finance & Investment, and CFA Level I. Experienced in building and maintaining data pipelines, automating workflows, and supporting analysis across equities, rates, and macro datasets.
+Trading operations and data-focused professional with 2+ years of experience building automation, monitoring, validation, and reconciliation workflows across financial and market data environments.
+
+Background in Engineering, MSc Finance & Investment, and CFA Level I. Experienced in using Python, SQL, and Linux to develop operational controls, investigate data quality issues, automate processes, and support analytics across equities, rates, FX, commodities, and macro datasets.
 
 Current focus:
 
-Market data validation, monitoring, and automation
-Python + SQL workflows for data processing and analysis
-Linux-based environments, scripting, and debugging data issues
+• Trading operations, monitoring, and operational reliability
+• Python and SQL automation for validation and reconciliation workflows
+• Linux-based scripting, debugging, and incident investigation
+• Financial markets, market structure, and trading system workflows
 
-Tools & workflow: Python, SQL (PostgreSQL), Linux/Bash, basic kdb+/q for time-series exploration.
+Tools & Technologies:
+Python, SQL (PostgreSQL), Linux/Bash, Pandas, NumPy, and basic kdb+/q for time-series exploration.
 
-Currently working as an Analyst, supporting data-driven workflows, automating processes, and working with financial datasets used in trading and analysis.
+Currently working as an Analyst supporting data-driven workflows, operational controls, automation initiatives, and large-scale financial datasets.
 
-This GitHub contains selected projects focused on data pipelines, automation, and market data analysis.
+This GitHub contains selected projects focused on trading operations, monitoring frameworks, automation, reconciliation, and financial data analysis.
