@@ -1,16 +1,12 @@
 # Hi, I'm Aditya 👋
 
-Trading Operations & Data Professional with 2+ years of experience building automation, monitoring, validation, and reconciliation workflows across financial and market data environments.
-
-MSc Finance & Investment | CFA Level I | Engineering Background
-
-Interested in the intersection of financial markets, technology, trading operations, and operational reliability.
+Trading Operations & Data Professional with 2+ years of experience working with financial and market data, building automation, monitoring, validation, and reconciliation workflows across production-style environments. MSc Finance & Investment graduate with CFA Level I and an engineering foundation in mathematics, statistics, and programming. Interested in the intersection of financial markets, technology, trading operations, and operational reliability.
 
 ### Current Focus
 
 🔹 Trading Operations, Monitoring & Operational Reliability
 
-🔹 Python & SQL Automation for Validation and Reconciliation Workflows
+🔹 Python & SQL for Data Processing, Automation, Validation & Reconciliation
 
 🔹 Linux-Based Scripting, Debugging & Incident Investigation
 
