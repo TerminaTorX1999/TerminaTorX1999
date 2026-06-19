@@ -18,8 +18,8 @@ Interested in the intersection of financial markets, technology, trading operati
 
 ### Tools & Technologies
 
-🐍 Python | 🗄️ SQL (PostgreSQL) | 🐧 Linux/Bash | Pandas | NumPy | Basic kdb+/q
+Python | SQL (PostgreSQL) | Linux/Bash | Pandas | NumPy | Basic kdb+/q
 
 ### About This GitHub
 
-🚀 Projects focused on trading operations, monitoring frameworks, automation, reconciliation, workflow reliability, and financial data analysis.
+Projects focused on trading operations, monitoring frameworks, automation, reconciliation, workflow reliability, and financial data analysis.
