@@ -1,4 +1,4 @@
-# Hi, I'm Aditya 👋
+# Hi, I'm Aditya
 
 Trading Operations & Data Professional with 2+ years of experience working with financial and market data, building automation, monitoring, validation, and reconciliation workflows across production-style environments. MSc Finance & Investment graduate with CFA Level I and an engineering foundation in mathematics, statistics, and programming. Interested in the intersection of financial markets, technology, trading operations, and operational reliability.
 
